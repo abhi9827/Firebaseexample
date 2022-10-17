@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132858362480",
+    "project_id": "sirschatapp",
+    "storage_bucket": "sirschatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132858362480:android:34953bedf4934ab75912b5",
+        "android_client_info": {
+          "package_name": "com.example.newflutterstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132858362480-aesccu38v4lb2s2adkpvocrpc9k5n6d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS67D7EbUNARjyMl8SKtrCbV_qVAKqf_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132858362480-aesccu38v4lb2s2adkpvocrpc9k5n6d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
